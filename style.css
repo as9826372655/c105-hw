@@ -1,0 +1,25 @@
+.name_of_object{
+    color: rgb(255, 255, 255);
+    background-color: blue;
+}
+body{
+   background-image:url(https://img.wallpapersafari.com/desktop/1280/1024/20/26/kIYwAM.jpg);
+}
+p{
+    color: rgb(255, 255, 255);
+    background-color: blue;
+}
+.btn-info:hover {
+
+    width: 140px;
+    height: 45px;
+    background-color: rgb(255, 0, 242);
+
+}
+.btn-success:hover {
+
+    width: 140px;
+    height: 45px;
+    background-color: rgb(255, 0, 0);
+
+}
